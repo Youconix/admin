@@ -9,7 +9,7 @@
 	  }
       ],
 	"require" : {
-		"youconix/core" : "master",
+		"youconix/core" : "master"
 	},
 	"authors": [
         {
