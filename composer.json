@@ -1,0 +1,24 @@
+{
+	"name": "youconix/admin",
+	"description": "Admin module for the miniature_happyness framework.",
+	"license": "LGPL-3.0+",
+	"repositories": [
+	  {
+	    "url": "https://github.com/Youconix/core.git",
+	    "type": "git"
+	  }
+      ],
+	"require" : {
+		"youconix/core" : "master",
+	},
+	"authors": [
+        {
+            "name": "R. Lugtigheid",
+            "email": "rlugtigheid@youconix.nl"
+        },
+        {
+            "name": "R. Scheijen",
+            "email": "rscheijen@youconix.nl"
+        }
+    ]
+}
